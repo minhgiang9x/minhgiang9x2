@@ -1,4 +1,5 @@
-public class Pyramid {
+package vonglap_for;
+public class KimTuThapSao {
     public static void main(String[] args) {
         // Số hàng của kim tự tháp (số cấp)
         int n = 5;
