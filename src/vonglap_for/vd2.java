@@ -10,6 +10,7 @@ public class vd2 {
         for(int i=0;i<=10;i++){
             pheptinh =n*i;
         System.out.println(n+"*"+i+ "="+pheptinh);}
+        scanner.close();
 
 
         }
